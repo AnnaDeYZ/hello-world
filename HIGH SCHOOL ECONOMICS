@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tiltle>HIGH SCHOOL ECONOMICS</title>
+</head>
+<body>
+<h1>HIGH SCHOOL ECONOMICS</h1>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="page2.html">CLASS 10</li>
+<p>Households and Consumption</p>
+<p>Firms and Production</p>
+<p>Markets and Prices</p>
+<p>Training and Employment</p>
+<li><a href="page3.html">CLASS 11</li>
+<p>Coodination through Market</p>
+<p>Money and Funding</p>
+<p>Regulations and Macroeconomic Imbalances</p>
+<p>Socialization Processes and The Construction of Social Identities</p>
+<p>Groups and Social Networks</p>
+<p>Social Control and Deviance</p>
+<li><a href="page4.html">CLASS 12</li>
+</ul>
+</body>
+</html>
